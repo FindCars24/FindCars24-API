@@ -1,5 +1,6 @@
 # FindCars24-API
 Hier findest du Beispiel Dateien zu der FindCars24 API.
+Mit der FindCars24 API kannst du deine Webseite direkt mit unserer verbinden und von interessanten Funktionen profitieren. Die gesamte FindCars24 API ist kostenlos.
 
 <h2>Alle API's</h2>
 <ul>
